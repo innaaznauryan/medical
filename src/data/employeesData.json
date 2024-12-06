@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "fullName": "Amelia Carter",
+    "position": "doctor",
+    "isHead": true,
+    "departmentId": 1
+  },
+  {
+    "id": 2,
+    "fullName": "Ethan Bennett",
+    "position": "doctor",
+    "isHead": false,
+    "departmentId": 1
+  },
+  {
+    "id": 3,
+    "fullName": "Sophia Richardson",
+    "position": "nurse",
+    "isHead": false,
+    "departmentId": 1
+  },
+  {
+    "id": 4,
+    "fullName": "Liam Henderson",
+    "position": "doctor",
+    "isHead": false,
+    "departmentId": 2
+  },
+  {
+    "id": 5,
+    "fullName": "Noah Patel",
+    "position": "doctor",
+    "isHead": true,
+    "departmentId": 2
+  },
+  {
+    "id": 6,
+    "fullName": "Olivia Martinez",
+    "position": "nurse",
+    "isHead": false,
+    "departmentId": 2
+  }
+]
