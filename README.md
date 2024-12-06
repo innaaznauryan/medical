@@ -15,3 +15,4 @@ A modern medical management app featuring CRUD operations. Built for efficiency 
 - Start the development server:  
   ```npm run dev```
 
+#### Live demo: [Medical Project](https://medical-project-departments.netlify.app/)
